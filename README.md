@@ -4,7 +4,7 @@
 
 In March we [reported](http://www.bbc.co.uk/news/uk-england-43293581) that ambulances and emergency response vehicles were deployed more than 1,500 times to five patients in 12 months, and 8,303 emergency calls were made by the five most frequent UK callers.
 
-The figures were released after a Freedom of Information request to the UK's 14 ambulance trusts. You can [read the questions from the FOI request here](https://github.com/BBC-Data-Unit/emergency-frequent-callers/blob/master/foirequest.md)
+The figures were released after a Freedom of Information request to the UK's 14 ambulance trusts by **Matt Graveling**. You can [read the questions from the FOI request here](https://github.com/BBC-Data-Unit/emergency-frequent-callers/blob/master/foirequest.md)
 
 ## Get the data
 
@@ -18,8 +18,13 @@ The figures were released after a Freedom of Information request to the UK's 14 
 * Spokesman, NHS
 * Vicki Nash, head of policy and campaigns for Mind (mental health charity)
 * Paul Jefferies, assistant director of operations at South Central Ambulance Service
-* Spokesman, West Midlands Ambulance service
-* Spokesman, Department of Health
+* Spokesman, West Midlands Ambulance service (online only)
+* Spokesman, Department of Health 
+* Kelly Taylor, Emergency Call Taker, South Central Ambulance Service (broadcast only)
+* Jodie Launchbury, Emergency Call Taker, South Central Ambulance Service (broadcast only)
+* Tim Churchill, Demand Management Lead, South Central Ambulance Service (broadcast only)
+* Margaret, Patient (broadcast only)
+* Susannah Dalton, Clinical Support Desk Team Leader, South Central Ambulance Service (broadcast only)
 
 ## Visualisation
 
